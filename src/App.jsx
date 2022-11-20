@@ -32,7 +32,7 @@ function App() {
           style={{ width: "100%", height: "50vh", background: "#f5f5f5", borderRadius: "15px" }}
           camera={{
             // zoom: -3,
-            position: [-2, 9, -10],
+            position: [0, 19, 16],
           }}
           gl={{
             antialias: true,
